@@ -1,5 +1,7 @@
 <h1>CASHU - NEW USER FREQUENTLY ASKED QUESTIONS (FAQs)</h1>
 
+![alt text](https://github.com/findingsov/cashu-newuser-faq/blob/main/CashuImg.png "Logo Title Text 1")
+
 <h2>TUTORIALS</h2>
 
 BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0BdMDI
