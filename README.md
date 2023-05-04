@@ -57,7 +57,7 @@ A: This varies depending on the mint.
 
 <h3>Q: How do I make a backup?</h3>
 
-A: In Nutstash, on the Settings page.  In Cashu.me (Heidi,try this out)
+A: In Nutstash, on the Settings page.  
 
 <h3>Q: Why can't I restore my cashu.me backup into Nutstash? </h3>
 
@@ -74,7 +74,7 @@ A:  For Nutstash: Go to the Settings tab to configure Nostr. Use an external key
 
 <h3>Q: How does the Cashu ecash protocol implement privacy?</h3>
 
-A: See http://lconf.gandlaf.com or (Heidi find Adopting Lightning Calle preso) for an introduction to the Cashu protocol. Or read the Cashu NUTs (Notation, Usage, Terminology) in Github here: https://github.com/cashubtc/nuts
+A: See http://lconf.gandlaf.com or https://www.youtube.com/watch?v=UNjVc-WYdgE&t=105s for an introduction to the Cashu protocol. Or read the Cashu NUTs (Notation, Usage, Terminology) in Github here: https://github.com/cashubtc/nuts
 
 <h3>Q: Are there user accounts in the Cashu protocol?</h3>
 
@@ -92,4 +92,14 @@ When using Nutshell, Tor is started if your .env file has set the setting TOR=TR
 <h3>Q: Are mints able to track ecash wallets by storing the payment_hash when a user receives a Lightning payment?</h3>
 
 A: No, the mint does not know the Cashu ecash secret or unblinded signature (see Nut-0 in Github https://github.com/cashubtc/nuts/blob/main/00.md). Therefore, there is no linkability between a Lightning invoice and Cashu ecash.  
+
+<h2>UPDATING</h2>
+
+<h3>Q: How do I update Cashu when LNBits or Cashu on LNBits have an update?</h3>
+A: LNbits: To update LNBits, follow the update instructions here:
+https://github.com/lnbits/lnbits/wiki/LNbits-Documentation#install-options
+
+Cashu: To re-install (after LNbits update) or update Cashu, follow the update instructions here:
+https://github.com/lnbits/lnbits/wiki/LNbits-Extensions
+    
 
