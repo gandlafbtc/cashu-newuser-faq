@@ -1,4 +1,4 @@
-<h1>CASHU - NEW USER FREQUENTLY ASKED QUESTIONS (FAQs)</h2>
+<h1>CASHU - NEW USER FREQUENTLY ASKED QUESTIONS (FAQs)</h1>
 
 <h2>TUTORIALS</h2>
 
@@ -6,7 +6,7 @@ BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0B
 
 <h2>MINTS</h2>
 
-**CAUTION: Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.**
+<b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.**
 
 <h3>Q: Why can't I receive tokens from one mint into another mint or my own mint?</h3>
 
@@ -39,8 +39,8 @@ A: You can redeem your tokens immediately via Lightning invoice on: https://rede
 
 <h2>WALLETS</h2>
     
-**CAUTION: Do not open the same wallet in multiple browser tabs.
-** 
+<b>CAUTION:</b> Do not open the same wallet in multiple browser tabs.
+ 
 <h3>Q: I have had pending tokens for quite some time, how do I resolve this?</h3>
 
 A: You can receive the tokens back to your own wallet. Check the History for the token to receive back into your wallet.
@@ -51,7 +51,7 @@ A: This varies depending on the mint.
 
 <h2>WALLET BACKUPS</h2>
 
-**CAUTION:** Your current backup is invalid if you make additional transactions.  Re-do the backup to get a backup of current wallet state.
+<b>CAUTION:</b> Your current backup is invalid if you make additional transactions.  Re-do the backup to get a backup of current wallet state.
 
 <h3>Q: How do I make a backup?</h3>
 
@@ -65,9 +65,8 @@ A: Wallet backups are only for that particular wallet implementation. To move yo
 
 <h3>Q: How doi I configure nostr?</h3>
 
-Nutstash: Go to the Settings tab to configure Nostr. Use an external key or generate throwaway nostr keys. When you send tokens, you can then specify a Nostr pubkey.
-
-Nutshell: Follow the Github instructions to configure Nostr by editing the .env file, then send tokens to a Nostr pubkey.
+A:  For Nutstash: Go to the Settings tab to configure Nostr. Use an external key or generate throwaway nostr keys. When you send tokens, you can then specify a Nostr pubkey. 
+    For Nutshell: Follow the Github instructions to configure Nostr by editing the .env file, then send tokens to a Nostr pubkey.
 
 <h2>GENERAL PRIVACY QUESTIONS</h2>
 
