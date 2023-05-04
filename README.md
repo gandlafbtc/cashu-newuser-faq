@@ -96,7 +96,8 @@ A: No, the mint does not know the Cashu ecash secret or unblinded signature (see
 <h2>UPDATING</h2>
 
 <h3>Q: How do I update Cashu when LNBits or Cashu on LNBits have an update?</h3>
-A: LNbits: To update LNBits, follow the update instructions here:
+A:  First, download a current Cashu wallet backup as a precaution.
+LNbits: To update LNBits, follow the update instructions here:
 https://github.com/lnbits/lnbits/wiki/LNbits-Documentation#install-options
 
 Cashu: To re-install (after LNbits update) or update Cashu, follow the update instructions here:
