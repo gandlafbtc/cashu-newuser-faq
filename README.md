@@ -65,7 +65,7 @@ A: Wallet backups are only for that particular wallet implementation. To move yo
 
 <h2>NOSTR</h2>
 
-<h3>Q: How doi I configure nostr?</h3>
+<h3>Q: How do I configure nostr?</h3>
 
 A:  For Nutstash: Go to the Settings tab to configure Nostr. Use an external key or generate throwaway nostr keys. When you send tokens, you can then specify a Nostr pubkey. 
     For Nutshell: Follow the Github instructions to configure Nostr by editing the .env file, then send tokens to a Nostr pubkey.
