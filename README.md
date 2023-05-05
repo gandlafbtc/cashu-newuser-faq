@@ -8,7 +8,7 @@ BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0B
 
 <h2>MINTS</h2>
 
-<b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.**
+<b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.
 
 <h3>Q: Why can't I receive tokens from one mint into another mint or my own mint?</h3>
 
@@ -17,18 +17,20 @@ A: You cannot receive tokens from one mint into another mint.  To transfer token
 <h3>Q: How to I send (swap) tokens from one mint to another?</h3>
 
 A: Use Intermint Swap functionality, which operates via Lightning invoices under the hood.
-   * Cashu.me - go to the Settings tab.
-   * Nutstash - go to the Mint tab. 
-
+<ul>
+    <li> Cashu.me - go to the Settings tab.</li>
+     <li> Nutstash - go to the Mint tab. </li>
+</ul>
 
 Note: You must have 2 mints in order to send/swap between mints.
 
 <h3>Q: Is there a list of mints?</h3>
 
 A: Listing mints would imply trust and recommendation of a mint.  There are 2 test mints:
-    * Cashu.me - https://8333.space:3338
-    * Nutstash - https://legend.lnbits.com/cashu/api/v1/4gr9Xcmz3XEkUNwiBiQGoC
-
+<ul>
+    <li> Cashu.me - https://8333.space:3338 </li>
+     <li>Nutstash - https://legend.lnbits.com/cashu/api/v1/4gr9Xcmz3XEkUNwiBiQGoC </li>
+</ul>
 <h3>Q: How do I set up my own mint?</h3>
 
 A: The easiest way to set up your own mint is in LNBits Cashu on the legends.lnbits.com server or on your own LNBits instance. You can also set up your own mint via the Nutshell tool--see Github for instructions.
@@ -55,9 +57,12 @@ A: This varies depending on the mint.
 
 <b>CAUTION:</b> Your current backup is invalid if you make additional transactions.  Re-do the backup to get a backup of current wallet state.
 
-<h3>Q: How do I make a backup?</h3>
-
-A: In Nutstash, on the Settings page.  
+<h3>Q: How do I make a backup and restore?</h3>
+A:  Backup and restore mechanisms are specific to each particular wallet.
+<ul>
+     <li> Nutstash - go to the Settings tab. </li>
+     <li> Cashu.me - At this time, you can download a backup and restore via Developer Tools.  A backup/restore mechanism is a work in progress.
+</ul>
 
 <h3>Q: Why can't I restore my cashu.me backup into Nutstash? </h3>
 
