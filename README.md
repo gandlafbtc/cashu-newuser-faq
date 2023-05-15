@@ -6,7 +6,8 @@
 
 BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0BdMDI
 
-If you want to use this FAQ in https://chatpdf.com, simply drag the PDF to the site.
+If you want to use this FAQ in https://chatpdf.com, simply drag the cashu-newuser-faq
+.pdf file to the chatPDF site.
 
 <h2>MINTS</h2>
 
