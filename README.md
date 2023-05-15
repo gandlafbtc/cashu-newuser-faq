@@ -38,7 +38,7 @@ You can see the complete list of mints here: https://mintindex.gandlaf.com
 
 <h3>Q: How do I set up my own mint?</h3>
 
-A: The easiest way to set up your own mint is in LNBits Cashu on the legends.lnbits.com server or on your own LNBits instance. You can also set up your own mint via the Nutshell tool--see Github for instructions.
+A: The easiest way to set up your own mint is in LNbits Cashu on the legends.lnbits.com server or on your own LNbits instance. You can also set up your own mint via the Nutshell tool--see Github for instructions.
 
 <h2>RECEIVING TOKENS</h2>
 
