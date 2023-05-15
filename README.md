@@ -9,9 +9,11 @@ BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0B
 If you want to use this FAQ in https://chatpdf.com, simply drag the cashu-newuser-faq
 .pdf file to the chatPDF site.
 
+<b>CAUTION</b>: Use small amounts on all mints.
+
 <h2>MINTS</h2>
 
-<b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.
+<b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  Use small amounts or immediately redeem tokens or swap tokens to your own mint.
 
 <h3>Q: Why can't I receive tokens from one mint into another mint or my own mint?</h3>
 
