@@ -6,6 +6,8 @@
 
 BTC Sessions-Cashu and Nutstash Wallets: https://www.youtube.com/watch?v=riTRD0BdMDI
 
+If you want to use this FAQ in https://chatpdf.com, simply drag the PDF to the site.
+
 <h2>MINTS</h2>
 
 <b>CAUTION:</b> Choose Mints where you trust or know and trust the operator.  If you don't trust the mint, use small amounts or immediately redeem tokens or swap tokens to your own mint.
@@ -26,11 +28,13 @@ Note: You must have 2 mints in order to send/swap between mints.
 
 <h3>Q: Is there a list of mints?</h3>
 
-A: Listing mints would imply trust and recommendation of a mint.  There are 2 test mints:
+A: There are 2 test mints: 
 <ul>
     <li> Cashu.me - https://8333.space:3338 </li>
      <li>Nutstash - https://legend.lnbits.com/cashu/api/v1/4gr9Xcmz3XEkUNwiBiQGoC </li>
 </ul>
+You can see the complete list of mints here: https://mintindex.gandlaf.com 
+
 <h3>Q: How do I set up my own mint?</h3>
 
 A: The easiest way to set up your own mint is in LNBits Cashu on the legends.lnbits.com server or on your own LNBits instance. You can also set up your own mint via the Nutshell tool--see Github for instructions.
@@ -49,6 +53,10 @@ A: You can redeem your tokens immediately via Lightning invoice on: https://rede
 
 A: You can receive the tokens back to your own wallet. Check the History for the token to receive back into your wallet.
 
+<h3>Q:  Can I get a QR code for a token?</h3>
+
+A: In Cashu.me, if you send a token that is a power of 2, you will see a QR code (e.g., 2, 4, 8, 16, 32, 64, 128, etc). This is because only 1 token can fit in a QR code.
+
 <h3>Q: Do invoices generated from Cashu or Nutstash expire?</h3>
 
 A: This varies depending on the mint. 
@@ -61,7 +69,7 @@ A: This varies depending on the mint.
 A:  Backup and restore mechanisms are specific to each particular wallet.
 <ul>
      <li> Nutstash - go to the Settings tab. </li>
-     <li> Cashu.me - At this time, you can download a backup and restore via Developer Tools.  A backup/restore mechanism is a work in progress.
+    <li> Cashu.me - go to the Welcome page and make a Backup.  You can then open a new browser and drop the Backup JSON file on the Welcome screen.  </li>
 </ul>
 
 <h3>Q: Why can't I restore my cashu.me backup into Nutstash? </h3>
