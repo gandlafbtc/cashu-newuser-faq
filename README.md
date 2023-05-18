@@ -42,6 +42,11 @@ You can see the complete list of mints here: https://mintindex.gandlaf.com
 
 A: The easiest way to set up your own mint is in LNbits Cashu on the legends.lnbits.com server or on your own LNbits instance. You can also set up your own mint via the Nutshell tool--see Github for instructions.
 
+<h3>Q: Can I send and receive tokens to/from the same mint?</h3>
+
+A: Yes, this is a common first test use case.  Also, sometimes you might send a token that is not received or redeemed, and you might want to copy the token and receive it back to yourself.
+
+
 <h2>RECEIVING TOKENS</h2>
 
 <h3>Q: What if I do not want to trust a mint and receive to a Nutstash, Cashu.me, or other wallet?</h3>
